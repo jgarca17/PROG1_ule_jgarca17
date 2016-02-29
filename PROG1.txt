@@ -8,3 +8,14 @@ dragon - http://dle.rae.es/?id=EBQTIka
 coche - http://dle.rae.es/?id=9ZNs7ye|9ZO4sFe
 quimera - http://dle.rae.es/?id=UrsQsDY
 muerte - http://dle.rae.es/?id=Q0MaZUb
+
+ardilla - http://dle.rae.es/?id=3U0iBhC
+botella - http://dle.rae.es/?id=5yiuECX
+castillo - http://dle.rae.es/?id=7rDz7RH
+dinosaurio - http://dle.rae.es/?id=DojjUme
+espada - http://dle.rae.es/?id=GSs0svO
+gaita - http://dle.rae.es/?id=IhUjFrN
+hilo - http://dle.rae.es/?id=KPCAvyq
+lago - http://dle.rae.es/?id=MnzSnFp
+nota - http://dle.rae.es/?id=QdrVoo1
+pelota - http://dle.rae.es/?id=SPdVcPX|SPeziQe
